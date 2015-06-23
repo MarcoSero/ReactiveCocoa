@@ -35,7 +35,6 @@
 		A95F9F741B32AB810018F5D0 /* NSString+RACSupport.m in Sources */ = {isa = PBXBuildFile; fileRef = D037645519EDA41200A782A9 /* NSString+RACSupport.m */; };
 		A95F9F751B32AB810018F5D0 /* NSString+RACKeyPathUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = D037645119EDA41200A782A9 /* NSString+RACKeyPathUtilities.m */; };
 		A95F9F761B32AB810018F5D0 /* NSDictionary+RACSequenceAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = D037643319EDA41200A782A9 /* NSDictionary+RACSequenceAdditions.m */; };
-		A95F9F771B32AB810018F5D0 /* RACCompoundDisposableProvider.d in Sources */ = {isa = PBXBuildFile; fileRef = D037646A19EDA41200A782A9 /* RACCompoundDisposableProvider.d */; };
 		A95F9F781B32AB810018F5D0 /* NSString+RACSequenceAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = D037645319EDA41200A782A9 /* NSString+RACSequenceAdditions.m */; };
 		A95F9F7A1B32AB810018F5D0 /* RACStringSequence.m in Sources */ = {isa = PBXBuildFile; fileRef = D03764AA19EDA41200A782A9 /* RACStringSequence.m */; };
 		A95F9F7B1B32AB810018F5D0 /* RACTupleSequence.m in Sources */ = {isa = PBXBuildFile; fileRef = D03764BB19EDA41200A782A9 /* RACTupleSequence.m */; };
@@ -60,7 +59,6 @@
 		A95F9F911B32AB810018F5D0 /* RACDynamicSequence.m in Sources */ = {isa = PBXBuildFile; fileRef = D037647019EDA41200A782A9 /* RACDynamicSequence.m */; };
 		A95F9F921B32AB810018F5D0 /* RACDisposable.m in Sources */ = {isa = PBXBuildFile; fileRef = D037646E19EDA41200A782A9 /* RACDisposable.m */; };
 		A95F9F931B32AB810018F5D0 /* TupleExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00004081A46864E000E7D41 /* TupleExtensions.swift */; };
-		A95F9F941B32AB810018F5D0 /* RACSignalProvider.d in Sources */ = {isa = PBXBuildFile; fileRef = D03764A319EDA41200A782A9 /* RACSignalProvider.d */; };
 		A95F9F951B32AB810018F5D0 /* NSSet+RACSequenceAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = D037644F19EDA41200A782A9 /* NSSet+RACSequenceAdditions.m */; };
 		A95F9F981B32AB810018F5D0 /* RACCompoundDisposable.m in Sources */ = {isa = PBXBuildFile; fileRef = D037646919EDA41200A782A9 /* RACCompoundDisposable.m */; };
 		A95F9F991B32AB810018F5D0 /* RACBlockTrampoline.m in Sources */ = {isa = PBXBuildFile; fileRef = D037646319EDA41200A782A9 /* RACBlockTrampoline.m */; };
@@ -2000,7 +1998,6 @@
 				A95F9F741B32AB810018F5D0 /* NSString+RACSupport.m in Sources */,
 				A95F9F751B32AB810018F5D0 /* NSString+RACKeyPathUtilities.m in Sources */,
 				A95F9F761B32AB810018F5D0 /* NSDictionary+RACSequenceAdditions.m in Sources */,
-				A95F9F771B32AB810018F5D0 /* RACCompoundDisposableProvider.d in Sources */,
 				A95F9F781B32AB810018F5D0 /* NSString+RACSequenceAdditions.m in Sources */,
 				A95F9F7A1B32AB810018F5D0 /* RACStringSequence.m in Sources */,
 				A95F9F7B1B32AB810018F5D0 /* RACTupleSequence.m in Sources */,
@@ -2025,7 +2022,6 @@
 				A95F9F911B32AB810018F5D0 /* RACDynamicSequence.m in Sources */,
 				A95F9F921B32AB810018F5D0 /* RACDisposable.m in Sources */,
 				A95F9F931B32AB810018F5D0 /* TupleExtensions.swift in Sources */,
-				A95F9F941B32AB810018F5D0 /* RACSignalProvider.d in Sources */,
 				A95F9F951B32AB810018F5D0 /* NSSet+RACSequenceAdditions.m in Sources */,
 				A95F9F981B32AB810018F5D0 /* RACCompoundDisposable.m in Sources */,
 				A95F9F991B32AB810018F5D0 /* RACBlockTrampoline.m in Sources */,
